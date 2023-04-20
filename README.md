@@ -1,4 +1,4 @@
-# SALES-INSIGHTS---POWER-BI---SQL---PROJECT
+# SALES-INSIGHTS---POWER-BI--PROJECT
 Sales insights, revenue trend using power bi and sql project
 
 Data Analysis Using SQL
